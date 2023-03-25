@@ -1,6 +1,6 @@
-#include "app.h"
-#include "json.hpp"
-#include "person.h"
+#include "include/app.h"
+#include "include/json.hpp"
+#include "include/person.h"
 #include <iostream>
 #include <string>
 #include <fstream>
