@@ -16,18 +16,13 @@ int count = 0;
 void chekFile (const std::string& fileName)
 {
         std::string correctFileFormat = ".json";
-        int correctFileFormatSize = correctFileFormat.size() - 1;
-        int sizeOfFileName = fileName.size() - 1;
-        for (int i = correctFileFormatSize; i >= 0; --i)
+        std::string failFormat = fileName.substr(fileName.size() - correctFileFormat.size());
+        if (failFormat != correctFileFormat)
         {
-                if (fileName[sizeOfFileName - (correctFileFormatSize - i)] != correctFileFormat[i])
-                {
-			std::invalid_argument("Error: Wrong File Format: ");
-                }
+                throw std::invalid_argument("Error: Wrong File Format: ");
         }
 
 }
-
  
 void readJson ()
 {
