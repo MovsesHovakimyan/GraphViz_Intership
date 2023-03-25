@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Alice",
+        "age": 25,
+        "address": {
+            "street": "123 Main St",
+            "city": "Anytown",
+            "state": "CA",
+            "zip": "12345"
+        },
+        "gender": "female",
+        "height": 165,
+        "weight": 60
+    },
+    {
+        "name": "Bob",
+        "age": 30,
+        "address": {
+            "street": "456 Second St",
+            "city": "Othertown",
+            "state": "NY",
+            "zip": "67890"
+        },
+        "gender": "male",
+        "height": 180,
+        "weight": 80
+    },
+    {
+        "name": "Monika",
+        "age": 33,
+        "address": {
+            "street": "123 Main St",
+            "city": "Anytown",
+            "state": "CA",
+            "zip": "12345"
+        },
+        "gender": "female",
+        "height": 165,
+        "weight": 60
+    },
+    {
+        "name": "Angel",
+        "age": 40,
+        "address": {
+            "street": "123 Main St",
+            "city": "Anytown",
+            "state": "CA",
+            "zip": "12345"
+        },
+        "gender": "female",
+        "height": 165,
+        "weight": 60
+    },
+    {
+        "name": "Jhon",
+        "age": 31,
+        "address": {
+            "street": "456 Second St",
+            "city": "Othertown",
+            "state": "NY",
+            "zip": "67890"
+        },
+        "gender": "male",
+        "height": 180,
+        "weight": 80
+    }
+
+
+]
