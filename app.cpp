@@ -5,7 +5,7 @@
 #include <string>
 #include <fstream>
 #include <vector>
-#include <stdexcept>
+#include <exception>
 
 nlohmann::json objJson;
 nlohmann::json newObjJson;
@@ -23,6 +23,8 @@ void chekFile (const std::string& fileName)
         }
 
 }
+
+
  
 void readJson ()
 {
