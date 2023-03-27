@@ -12,20 +12,20 @@ Otherwise, the work of the program will be interrupted and you will receive a me
 
 You can run the program with your own defined .json files, but they must have fields that match the following pattern `
 
-Example: 
-	" 
-	   "name": "Alice",
-      	   "age": 25,
-           "address": {
-           "street": "123 Main St",
-           "city": "Anytown",
-           "state": "CA",
-           "zip": "12345"
-           },
-           "gender": "female",
-           "height": 165,
-           "weight": 60 
-	".
+Example: <br />
+	" <br />
+	   "name": "Alice",<br />
+      	   "age": 25,<br />
+           "address": {<br />
+           "street": "123 Main St",<br />
+           "city": "Anytown",<br />
+           "state": "CA",<br />
+           "zip": "12345"<br />
+           },<br />
+           "gender": "female",<br />
+           "height": 165,<br />
+           "weight": 60 <br />
+	".<br />
 
 # Usage
 
