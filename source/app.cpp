@@ -1,11 +1,11 @@
-#include "app.h"
-#include "json.hpp"
-#include "person.h"
+#include "include/app.hpp"
+#include "include/json.hpp"
+#include "include/person.hpp"
 #include <iostream>
 #include <string>
 #include <fstream>
 #include <vector>
-#include <stdexcept>
+#include <exception>
 
 nlohmann::json objJson;
 nlohmann::json newObjJson;
@@ -23,6 +23,8 @@ void chekFile (const std::string& fileName)
         }
 
 }
+
+
  
 void readJson ()
 {
