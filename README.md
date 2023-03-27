@@ -12,7 +12,8 @@ Otherwise, the work of the program will be interrupted and you will receive a me
 
 You can run the program with your own defined .json files, but they must have fields that match the following pattern `
 
-Example: " 
+Example: 
+	" 
 	   "name": "Alice",
       	   "age": 25,
            "address": {
