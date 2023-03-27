@@ -11,6 +11,7 @@ You should enter files of that format as a source file and a file to save the ou
 Otherwise, the work of the program will be interrupted and you will receive a message from the compiler that the format of the file you entered does not meet the standards of the program.
 
 You can run the program with your own defined .json files, but they must have fields that match the following pattern `
+
 Example: " 
 	   "name": "Alice",
       	   "age": 25,
@@ -33,8 +34,7 @@ To use the program, follow this steps:
 
 2.Make sure you can use the git system.
 
-3.Then run the git clone command as follows `
-  git clone https://github.com/MovsesHovakimyan/GraphViz_Intership.git 
+3.Then run the git clone command as follows ` git clone https://github.com/MovsesHovakimyan/GraphViz_Intership.git 
 
 4.After successfully cloning, move to the final changes branch named "changes" as follows `
   git checkout changes
