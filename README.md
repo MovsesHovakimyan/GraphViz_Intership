@@ -47,6 +47,6 @@ To use the program, follow this steps:
   Then enter the name of the source JSON file.
 
 7.Wait until you receive the following message ` "Pleas enter new json file name: ", 
-  Enter the name of the new JSON file.
+  Then enter the name of the new JSON file.
 
 If you have successfully completed the following steps and finally received a message with people's names and average ages, then congratulations! You have successfully launched the program and it has completed successfully.
