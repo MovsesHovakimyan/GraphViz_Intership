@@ -13,7 +13,7 @@ Otherwise, the work of the program will be interrupted and you will receive a me
 You can run the program with your own defined .json files, but they must have fields that match the following pattern `
 
 Example: <br />
-	" <br />
+	{ <br />
 	   "name": "Alice",<br />
       	   "age": 25,<br />
            "address": {<br />
@@ -25,7 +25,7 @@ Example: <br />
            "gender": "female",<br />
            "height": 165,<br />
            "weight": 60 <br />
-	".<br />
+	}.<br />
 
 # Usage
 
